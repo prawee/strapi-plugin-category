@@ -1,0 +1,27 @@
+{
+  "name": "pw-category",
+  "version": "0.0.0",
+  "description": "This is the category plugin for Strapi.",
+  "strapi": {
+    "name": "category",
+    "description": "Category plugin",
+    "kind": "plugin",
+    "displayName": "Category"
+  },
+  "dependencies": {},
+  "author": {
+    "name": "Prawee Wongsa",
+    "email": "prawee@hotmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "Prawee Wongsa",
+      "email": "prawee@hotmail.com"
+    }
+  ],
+  "engines": {
+    "node": ">=12.x.x <=16.x.x",
+    "npm": ">=6.0.0"
+  },
+  "license": "MIT"
+}
