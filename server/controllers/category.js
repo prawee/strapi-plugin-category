@@ -4,7 +4,7 @@ module.exports = {
   index(ctx) {
     ctx.body = strapi
       .plugin('category')
-      .service('myService')
+      .service('category')
       .getWelcomeMessage();
   },
 };

@@ -2,7 +2,7 @@ module.exports = [
   {
     method: 'GET',
     path: '/',
-    handler: 'myController.index',
+    handler: 'category.index',
     config: {
       policies: [],
     },
