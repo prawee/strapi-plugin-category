@@ -1,6 +1,6 @@
 {
-  "name": "pw-category",
-  "version": "0.0.0",
+  "name": "strapi-plugin-category",
+  "version": "0.0.1",
   "description": "This is the category plugin for Strapi.",
   "strapi": {
     "name": "category",
