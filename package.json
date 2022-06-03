@@ -2,9 +2,14 @@
   "name": "strapi-plugin-category",
   "version": "0.0.1",
   "description": "This is the category plugin for Strapi.",
+  "private": false,
+  "keywords": [
+    "category",
+    "strapi"
+  ],
   "strapi": {
-    "name": "category",
-    "description": "Category plugin",
+    "name": "strapi-plugin-category",
+    "description": "This is the category plugin for Strapi.",
     "kind": "plugin",
     "displayName": "Category"
   },
@@ -23,5 +28,11 @@
     "node": ">=12.x.x <=16.x.x",
     "npm": ">=6.0.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/prawee/strapi-plugin-category.git"
+  },
+  "homepage": "https://github.com/prawee/strapi-plugin-category.git",
+  "bugs": "https://github.com/prawee/strapi-plugin-category/issues",
   "license": "MIT"
 }
